@@ -6,3 +6,4 @@ psycopg2==2.9.10
 pytz==2024.2
 virtualenv==15.1.0
 whitenoise==6.8.2
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
